@@ -1,5 +1,5 @@
 # HELLO WORLD
-## BCM LPM State Persistence Vulnerability
+## Zero-Click CompanionLink Vulnerabilty 
 **CVSS 9.3 | CVE-2025-XXXXX**
 
 ---
