@@ -74,7 +74,7 @@ Connection established 5 seconds post-radio initialization. MTU=23 (no GATT nego
 
 ## IMPACT
 
-**Zero-click remote code execution** during radio state transitions (black screen, no user visibility).
+**Unauthenticated connection hijacking via persistent LPM state** (potential for remote code execution during radio state transitions).
 
 **Attack surface:**
 - Adjacent network (Bluetooth range ~10m)
